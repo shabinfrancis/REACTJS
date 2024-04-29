@@ -7,11 +7,11 @@ function App() {
 
   return (
       <>
-        {/* <ProductTab /> */}
+        <ProductTab /> 
         {/* <MsgBox userName="Shabin" textColor="yellow"/> */}
-        {/*<ProductTab /> */}
-        <Button />
-        <Form />
+        <ProductTab />
+        {/* <Button />
+        <Form /> */}
       </>
   );    
 }
